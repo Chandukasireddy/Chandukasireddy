@@ -31,6 +31,10 @@ nav ul {
   padding: 0;
   display: flex;
 }
+/* Social handle link styles */
+.contact a {
+  text-decoration: none;
+  color
 
 nav li {
   margin: 0 10px;
