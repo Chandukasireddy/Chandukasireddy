@@ -1,0 +1,120 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header styles */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+/* Navigation styles */
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  transition: all 0.2s ease-in-out;
+}
+
+nav a:hover {
+  color: #0077cc;
+}
+
+/* About me section styles */
+.about-me {
+  margin-bottom: 30px;
+}
+
+.about-me h2 {
+  margin-top: 0;
+}
+
+.about-me p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.about-me button {
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.about-me button:hover {
+  background-color: #005fb2;
+}
+
+/* Projects section styles */
+.projects {
+  margin-bottom: 30px;
+}
+
+.projects h2 {
+  margin-top: 0;
+}
+
+.projects li {
+  margin-bottom: 20px;
+}
+
+.projects h3 {
+  margin: 0;
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+.projects p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/* Contact section styles */
+.contact h2 {
+  margin-top: 0;
+}
+
+.contact li {
+  margin-bottom: 10px;
+}
+
+.contact a {
+  text-decoration: none;
+  color: #333;
+  transition: all 0.2s ease-in-out;
+}
+
+.contact a:hover {
+  color: #0077cc;
+}
