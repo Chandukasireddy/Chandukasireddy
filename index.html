@@ -3,12 +3,22 @@
 <head>
   <title>Chandrakiran Reddy - Portfolio</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
+    /* Reset styles */
+    * {
       margin: 0;
       padding: 0;
+      box-sizing: border-box;
+    }
+    
+    /* Body styles */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
     }
 
+    /* Header styles */
     header {
       background-color: #333;
       color: #fff;
@@ -31,18 +41,17 @@
       margin-bottom: 20px;
     }
 
-    section {
-      padding: 40px 20px;
-      background-color: #f9f9f9;
+    /* Main content styles */
+    #main-content {
+      padding: 40px;
     }
 
-    .container {
-      max-width: 960px;
-      margin: 0 auto;
+    section {
+      margin-bottom: 40px;
     }
 
     .project {
-      margin-bottom: 40px;
+      margin-bottom: 20px;
     }
 
     .project h3 {
@@ -55,26 +64,22 @@
       margin-bottom: 10px;
     }
 
-    .contact-info {
-      margin-bottom: 40px;
-    }
-
-    .contact-info p {
-      font-size: 16px;
-      margin-bottom: 10px;
-    }
-
     .skills ul {
       list-style-type: none;
-      padding-left: 0;
+      margin-top: 10px;
     }
 
     .skills li {
       display: inline-block;
       margin-right: 10px;
+      background-color: #f2f2f2;
+      padding: 5px 10px;
+      border-radius: 4px;
+      font-size: 14px;
     }
 
-    .footer {
+    /* Footer styles */
+    footer {
       background-color: #333;
       color: #fff;
       padding: 20px;
@@ -89,46 +94,60 @@
     <p>Front-End Developer | Technical Enthusiast</p>
   </header>
 
-  <section id="about" class="container">
-    <h2>About Me</h2>
-    <p>Write a brief introduction about yourself, your skills, and your experiences.</p>
-  </section>
+  <div id="main-content">
+    <section id="about">
+      <h2>About Me</h2>
+      <p>Write a brief introduction about yourself, your skills, and your experiences.</p>
+    </section>
 
-  <section id="projects" class="container">
-    <h2>Projects</h2>
-    <div class="project">
-      <h3>Project 1</h3>
-      <p>Description of project 1</p>
-    </div>
-    <div class="project">
-      <h3>Project 2</h3>
-      <p>Description of project 2</p>
-    </div>
-  </section>
+    <section id="projects">
+      <h2>Projects</h2>
+      <div class="project">
+        <h3>Stayrating.me | Accommodation Platform</h3>
+        <p>Collaborated with a team of developers to create a user-friendly web application for students to find accommodations efficiently</p>
+      </div>
+      <div class="project">
+        <h3>Image processing model | Deep Learning</h3>
+        <p>Enhanced visibility and accuracy of biopsy images in challenging low-lighting conditions. Utilized histogram equalization, computer vision, and filtering to improve quality and reduce noise.</p>
+      </div>
+      <div class="project">
+        <h3>University Mobile App | Jetpack Compose</h3>
+        <p>Using Google's Jetpack Compose technology created an Android app with multiple interfaces.</p>
+      </div>
+      <div class="project">
+        <h3>Real-Time Chat Site | Firebase & Firestore</h3>
+        <p>Developed a secure real-time chat site with user authentication, utilizing Firebase & Firestore.</p>
+      </div>
+    </section>
 
-  <section id="skills" class="container">
-    <h2>Skills</h2>
-    <div class="skills">
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>React</li>
-        <li>Node.js</li>
-      </ul>
-    </div>
-  </section>
+    <section id="skills">
+      <h2>Skills</h2>
+      <div class="skills">
+        <h3>Technical Skills</h3>
+        <ul>
+          <li>Python</li>
+          <li>App Development</li>
+          <li>Data Structures</li>
+          <li>Data Analytics</li>
+          <li>Open Source</li>
+          <li>SQL</li>
+          <li>Cloud</li>
+          <li>Web Development</li>
+        </ul>
+      </div>
+      <div class="skills">
+        <h3>Soft Skills</h3>
+        <ul>
+          <li>Leadership</li>
+          <li>Problem-Solving</li>
+          <li>Team Work</li>
+          <li>Collaboration</li>
+        </ul>
+      </div>
+    </section>
+  </div>
 
-  <section id="contact" class="container">
-    <h2>Contact Information</h2>
-    <div class="contact-info">
-      <p>Phone: +91 8179833743</p>
-      <p>Email: chandrakiranreddy2406@gmail.com</p>
-      <p>Location: Hyderabad, Telangana, India</p>
-    </div>
-  </section>
-
-  <footer class="footer">
+  <footer>
     <p>&copy; 2023 Chandrakiran Reddy. All rights reserved.</p>
   </footer>
 </body>
