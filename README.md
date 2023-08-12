@@ -53,3 +53,13 @@
 - Publications under review: Potential of Nature-Inspired Techniques for Enhanced Satellite Image Classification 📚
 
 </div>
+
+<!-- This is comment
+## 🛠️ Technical Skills
+
+| Skill             | Percentage |
+|-------------------|------------|
+| Python            | 80%        |
+| Machine Learning  | 75%        |
+| Java              | 70%        |
+-->
