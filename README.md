@@ -2,8 +2,9 @@
   
 # Chandrakiran Reddy Kasireddy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chandrakiranreddy-blue)](https://www.linkedin.com/in/chandrakiranreddy)
-[![GitHub](https://img.shields.io/github/followers/chandrakiranreddy?label=follow&style=social)](https://github.com/chandrakiranreddy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/github/followers/chandrakiranreddy?label=follow&style=social)](https://github.com/Chandukasireddy)
+[<img src="https://cdn.mos.cms.futurecdn.net/QST9xhcQtaBtermPxttF6H.jpg" alt="Twitter" width="30" height="20">](https://twitter.com/chandu_2406)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://chandukasireddy.netlify.app/)
 
 👋 Hello, I'm Chandrakiran Reddy, a passionate Front-End Developer and AI enthusiast!
 
