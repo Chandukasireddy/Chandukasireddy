@@ -12,7 +12,6 @@
 - B.Tech in Computer Science and Engineering – Artificial Intelligence and Machine Learning
 - Guru Nanak Institutions Technical Campus, Hyderabad, India
 - GPA: 8.02
-- Nov 2022-24
 
 ## 💼 Experience
 ### Feliks Club & Google DSC | Founder & Lead
