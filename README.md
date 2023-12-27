@@ -6,7 +6,7 @@
 [<img src="https://cdn.mos.cms.futurecdn.net/QST9xhcQtaBtermPxttF6H.jpg" alt="Twitter" width="30" height="20">](https://twitter.com/chandu_2406)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://chandukasireddy.netlify.app/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandukasireddy&label=Profile%20views&color=0e75b6&style=flat" alt="Chandukasireddy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chandukasireddy&label=Profile%20views&color=0e75b6&style=flat" alt="Chandukasireddy" /> </p>
 
 
 👋 Hello, I'm Chandrakiran Reddy, a passionate Front-End Developer and AI enthusiast!
