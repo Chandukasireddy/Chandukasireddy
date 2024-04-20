@@ -126,7 +126,7 @@
 <img src="https://raw.githubusercontent.com/chandukasireddy/chandukasireddy/output/snake.svg" alt="Snake animation" />
 
 ###
-# readme
+# Hacktoberfest
 
 [![@chandukasireddy's Holopin board](https://holopin.me/chandukasireddy)](https://holopin.io/@chandukasireddy)
 
