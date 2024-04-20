@@ -66,8 +66,6 @@
 | Machine Learning  | 75%        |
 | Java              | 70%        |
 -->
-<h2 align="left">👋 Hello, I'm Chandrakiran Reddy, a passionate Front-End Developer and AI enthusiast!</h2>
-
 ###
 
 <div align="center">
