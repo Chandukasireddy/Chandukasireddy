@@ -24,7 +24,7 @@
 - Community of 3000+ active developers
 - Mar 2022-June 2023
 
-### Trechon LLC | Software Engineer Intern
+### Trechon LLC | Data Sciecne Intern
 - Developed enterprise inventory management tool using Azure Cloud and .NET 💼
 - Improved inventory accuracy by 30%, operational efficiency by 25% ⚙️
 - Collaborated on design and content alignment for clients 🌐
