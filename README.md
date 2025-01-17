@@ -3,76 +3,85 @@
 # Chandrakiran Reddy Kasireddy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chandrakiranreddy-blue)](https://www.linkedin.com/in/chandrakiranreddy)
 [![GitHub](https://img.shields.io/github/followers/chandrakiranreddy?label=follow&style=social)](https://github.com/Chandukasireddy)
-[<img src="https://cdn.mos.cms.futurecdn.net/QST9xhcQtaBtermPxttF6H.jpg" alt="Twitter" width="30" height="20">](https://twitter.com/chandu_2406)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://chandukasireddy.netlify.app/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chandukasireddy&label=Profile%20views&color=0e75b6&style=flat" alt="Chandukasireddy" /> </p>
 
+## 👨‍💻 About Me
+I am a **Master's student in Artificial Intelligence** at Brandenburg University of Technology, Germany. Passionate about **Data Science, Cloud Computing, and AI**, I specialize in developing machine learning models, deploying cloud-based applications, and leading tech communities. With hands-on experience in various domains, from **pharmaceutical sales prediction** to **anomaly detection** in meteorology, I aim to contribute towards building cutting-edge solutions with a focus on technical excellence.
 
-👋 Hello, I'm Chandrakiran Reddy, a passionate Front-End Developer and AI enthusiast!
+## 🎓 Education
 
-## 📚 Education
-- B.Tech in Computer Science and Engineering – Artificial Intelligence and Machine Learning
-- Guru Nanak Institutions Technical Campus, Hyderabad, India
-- GPA: 8.02
+- **MS in Artificial Intelligence**  
+  Brandenburg University of Technology, Germany (Oct 2024 – present)
 
-## 💼 Experience
-### Feliks Club & Google DSC | Founder & Lead
-- Organized and managed a skilled team of 25 individuals 🚀
-- Hosted 30+ events, including hackathons, workshops, and tech talks 🌟
-- Guided developers in web development, app development, machine learning, and more 💡
-- Community of 3000+ active developers
-- Mar 2022-June 2023
+- **B.Tech in Computer Science and Engineering – Artificial Intelligence and Machine Learning**  
+  Guru Nanak Institutions Technical Campus, Hyderabad, India (Nov 2020 – May 2024)
 
-### Trechon LLC | Data Sciecne Intern
-- Developed enterprise inventory management tool using Azure Cloud and .NET 💼
-- Improved inventory accuracy by 30%, operational efficiency by 25% ⚙️
-- Collaborated on design and content alignment for clients 🌐
-- Aug 2022-Feb 2023
+## 💼 Professional Experience
 
-## 🔧 Skills
-- Proficient in Python, Machine Learning, Java OOPS, C, Assembly, R Programming
-- Experienced in Linux, C++, .NET MAUI, C#, ReactJS, NodeJS, Flask, Android Testing
-- Familiar with GitHub, VS Code, Git, Azure, GCP, OBS Studio, Canva, Figma, Firebase, Bootstrap, Netlify, Vercel
+### **Data Science Intern | Trechon**  
+*Jan 2024 – Apr 2024 | Remote*
+- Developed a **machine learning model** to predict **pharmaceutical sales**, increasing supply chain efficiency by providing demand alerts.
+- Automated data preprocessing using a **Python script**, reducing time by **30%** and improving overall efficiency by **25%**.
 
-## 🚀 Projects
-### Stayrating.me | Accommodation Platform
-- Collaborated on user-friendly web app, mentoring contributors 👥
-- Tech Stack: HTML, CSS, JavaScript, Node.js, Vercel
+### **Associate Engineer | I K Technologies**  
+*Aug 2023 – Dec 2023 | Hyderabad, India*
+- Led **Azure ML Studio** and **Cosmos DB** integration projects, significantly improving **CI/CD** practices.
+- Designed a **desktop application** for automated staff attendance using CCTV, achieving **92% accuracy** in identity verification.
+- Enhanced data management with **Microsoft SQL Server**, improving retrieval efficiency by **50%**.
 
-### Real-Time Chat Site | Firebase & Firestore
-- Developed secure real-time chat site with authentication 🔒
-- Tech Stack: HTML, JavaScript, Serverless Firebase
+## 🔧 Technical Skills
 
-### Image Processing Model | Deep Learning
-- Enhanced visibility and accuracy of biopsy images 👁️
-- Utilized OpenCV, cv2, Colab, Histogram
+- **Programming & Data Science**: Python, R, SQL, TensorFlow, PyTorch, Scikit-learn, Machine Learning, Deep Learning, Statistical Analysis
+- **Cloud Platforms**: AWS, GCP, Azure, Firebase, Lambda, Compute Engine
+- **Web Development**: JavaScript, ReactJS, NodeJS, HTML5, CSS3, Tailwind CSS, REST APIs, WordPress, MongoDB
+- **Dev Tools**: Git, Jupyter, VS Code, RStudio, SQL Server Management Studio, Oracle DBMS, Linux, Docker
+- **Business Intelligence**: Power BI, Tableau, Excel, Data Visualization
+
+## 🛠 Projects
+
+- **Advanced Anomaly Detection in Meteorology Using k-NN and Autoencoders**
+  - Developed deep learning models using **k-NN** and **Autoencoders** to detect weather anomalies and provide **early warnings**.
+  - Implemented for improved disaster planning in meteorology.
+
+- **Real-Time Chat Platform**
+  - Built a **real-time chat application** using **Firebase** and **Firestore**.
+  - Integrated **instant messaging** and **user authentication** for improved security and engagement.
+
+- **Image Processing Model**
+  - Utilized **deep learning** and **computer vision** to enhance **biopsy images**, improving clarity under low light.
+  - Applied **histogram equalization** and filtering techniques for better image quality.
+
+- **Sentimental Analysis on Women’s Clothing Reviews**
+  - Developed an **NLP model** to analyze customer sentiments from reviews and categorize emotions.
+  - Aimed to assist businesses in improving their products based on customer feedback.
 
 ## 🏆 Achievements
-- Runner-up in startup challenge at IIT Hyderabad 🏅
-- Top ranking for Findyourbelongings.com idea 💡
-- Certified Google Cloud Platform (GCP) Cloud Digital Leader ☁️
-- Chief Igniter of Unstop, CA E-Cell IIT-Bombay & Ninja entrepreneur with Coding Ninjas 🚀
-- Publications under review: Potential of Nature-Inspired Techniques for Enhanced Satellite Image Classification 📚
+
+- **IBM Data Science Professional Certificate** – Completed 10-course series.
+- **Best Startup Pitch Award** – For the project **findyourbelongings.com** at **IIT Hyderabad**.
+- **Google Cloud Digital Leader** – Certified for understanding **Google Cloud's core solutions**.
+- **Chief Igniter Unstop** – Organized successful hackathons as part of technical events.
+- **E-CELL IIT Bombay CA Intern** – Developed an **entrepreneurship community**.
+- **IJRTI Publication** – Published research on **Hybrid Algorithms** for terrain feature extraction.
+
+## 🗣 Languages
+
+- **English** – Proficient
+- **Hindi** – Fluent
+- **Telugu** – Native
+- **German** – Basic
+
+## 📬 Contact
+
+- **Email**: [chandukasireddy02@gmail.com](mailto:chandukasireddy02@gmail.com)
+- **Phone**: +49 176 58483995
+- **Location**: Berlin, Germany
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/chandrakiranreddy)
+- **Portfolio**: [Visit Portfolio](https://chandukasireddy.netlify.app/)
 
 </div>
-
-<!-- This is comment
-## 🛠️ Technical Skills
-
-| Skill             | Percentage |
-|-------------------|------------|
-| Python            | 80%        |
-| Machine Learning  | 75%        |
-| Java              | 70%        |
--->
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/chandukasireddy/count.svg?"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandukasireddy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -80,29 +89,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandukasireddy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://drive.google.com/file/d/13a-hCavjffmPQdtlj9gTZPLy9eO-At-M/view?usp=drive_link"  />
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chandukasireddy/" target="_blank">
@@ -110,9 +105,6 @@
   </a>
   <a href="chandrakiranreddy2406@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://instagram.com/chandu__kasireddy?igshid=YmMyMTA2M2Y=" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://twitter.com/chandu_2406" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
