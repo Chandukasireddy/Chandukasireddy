@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chandukasireddy&label=Profile%20views&color=0e75b6&style=flat" alt="Chandukasireddy" /> </p>
 
 ## 👨‍💻 About Me
-I am a **Master's student in Artificial Intelligence** at Brandenburg University of Technology, Germany. Passionate about **Data Science, Cloud Computing, and AI**, I specialize in developing machine learning models, deploying cloud-based applications, and leading tech communities. With hands-on experience in various domains, from **pharmaceutical sales prediction** to **anomaly detection** in meteorology, I aim to contribute towards building cutting-edge solutions with a focus on technical excellence.
+I am a **Master's student in Artificial Intelligence** at Brandenburg University of Technology, Germany. Passionate about **Data Science, Cloud Computing, and AI**, I specialize in developing machine learning models, deploying cloud-based applications, and leading tech communities. With hands-on experience in various domains, from **Data prediction** to **anomaly detection** in meteorology, I aim to contribute towards building cutting-edge solutions with a focus on technical excellence.
 
 ## 🎓 Education
 
