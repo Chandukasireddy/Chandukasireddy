@@ -79,7 +79,7 @@ I am a **Master's student in Artificial Intelligence** at Brandenburg University
 - **Phone**: +49 176 58483995
 - **Location**: Berlin, Germany
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/chandrakiranreddy)
-- **Portfolio**: [Visit Portfolio](https://chandukasireddy.netlify.app/)
+- **Portfolio**: [Visit Portfolio](https://chandu.graspins.com/)
 
 </div>
 
