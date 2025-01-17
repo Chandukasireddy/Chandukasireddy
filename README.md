@@ -3,7 +3,7 @@
 # Chandrakiran Reddy Kasireddy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chandrakiranreddy-blue)](https://www.linkedin.com/in/chandrakiranreddy)
 [![GitHub](https://img.shields.io/github/followers/chandrakiranreddy?label=follow&style=social)](https://github.com/Chandukasireddy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://chandukasireddy.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://chandu.graspins.com/)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chandukasireddy&label=Profile%20views&color=0e75b6&style=flat" alt="Chandukasireddy" /> </p>
 
