@@ -107,10 +107,14 @@ I am a **Master's student in Artificial Intelligence** at Brandenburg University
 
 ## **📊 GitHub Stats**
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=chandukasireddy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=chandukasireddy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandukasireddy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandukasireddy&theme=radical" alt="Profile Details" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandukasireddy&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandukasireddy&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandukasireddy&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandukasireddy&theme=radical" alt="Languages per Repo" />
 </div>
 
 ---
