@@ -1,12 +1,19 @@
+<div align="center">
+
 # **Chandrakiran Reddy Kasireddy**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandrakiranreddy-blue)](https://www.linkedin.com/in/chandrakiranreddy)  
-[![GitHub](https://img.shields.io/github/followers/chandrakiranreddy?label=follow&style=social)](https://github.com/Chandukasireddy)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://chandu.graspins.com/)
-
-<p><img src="https://komarev.com/ghpvc/?username=Chandukasireddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrakiranreddy)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chandukasireddy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://chandu.graspins.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Chandukasireddy&style=for-the-badge&label=PROFILE+VIEWS&color=blue)](https://github.com/Chandukasireddy)
 
 ---
+
+</div>
+
+
+</div>
+
 
 ## **👨‍💻 About Me**
 
@@ -37,6 +44,21 @@ I am a **Master's student in Artificial Intelligence** at Brandenburg University
 - Developed a **desktop application** for automated staff attendance using CCTV, achieving **92% accuracy**.  
 - Enhanced data management using **Microsoft SQL Server**, improving retrieval efficiency by **50%**.
 
+
+---
+
+## **📊 GitHub Stats**
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandukasireddy&theme=radical" alt="Profile Details" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandukasireddy&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandukasireddy&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandukasireddy&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandukasireddy&theme=radical" alt="Languages per Repo" />
+</div>
+
 ---
 
 ## **🔧 Technical Skills**
@@ -54,8 +76,7 @@ I am a **Master's student in Artificial Intelligence** at Brandenburg University
 - Git, Jupyter, VS Code, Docker, Linux, SQL Server Management Studio  
 
 ### **Business Intelligence**  
-- Power BI, Tableau, Excel, Data Visualization  
-
+- Power BI, Tableau, Excel, Data Visualization
 ---
 
 ## **🛠 Projects**
@@ -102,20 +123,6 @@ I am a **Master's student in Artificial Intelligence** at Brandenburg University
 - **Location**: Berlin, Germany  
 - **LinkedIn**: [View LinkedIn Profile](https://www.linkedin.com/in/chandrakiranreddy)  
 - **Portfolio**: [Visit Portfolio](https://chandu.graspins.com/)  
-
----
-
-## **📊 GitHub Stats**
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandukasireddy&theme=radical" alt="Profile Details" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=chandukasireddy&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chandukasireddy&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandukasireddy&theme=radical" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandukasireddy&theme=radical" alt="Languages per Repo" />
-</div>
 
 ---
 
