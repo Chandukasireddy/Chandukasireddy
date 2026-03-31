@@ -155,17 +155,18 @@ print(me.fun_fact())
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandukasireddy&theme=radical" alt="Profile Details" width="100%"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandukasireddy&theme=radical" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=chandukasireddy&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chandukasireddy&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" height="165"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandukasireddy&theme=radical" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=chandukasireddy&theme=radical&hide_border=true&background=1F0A3A&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandukasireddy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" height="165"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandukasireddy&theme=radical" alt="Productive Time" height="165"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandukasireddy&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandukasireddy&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandukasireddy&theme=radical&utcOffset=1" />
 
 </div>
 
@@ -175,7 +176,7 @@ print(me.fun_fact())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chandukasireddy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=chandukasireddy&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 
 </div>
 
