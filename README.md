@@ -1,48 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chandrakiran%20Reddy%20Kasireddy&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20Agentic%20RAG%20Wizard&descAlignY=55&descSize=18" />
+<!-- Header Dynamic Cyberpunk Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,44,114,9,183,168,85,247&height=230&section=header&text=Chandrakiran%20Reddy%20Kasireddy&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20Agentic%20RAG%20Wizard&descAlignY=58&descSize=18" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🤖+Building+Agentic+AI+Systems+at+Robert+Bosch;🧠+LLM+Fine-Tuning+%7C+RAG+%7C+AI+Agents;🚀+Masters+in+AI+%40+BTU+Cottbus%2C+Germany;⚡+Turning+Coffee+into+Intelligent+Agents)](https://git.io/typing-svg)
+<!-- Animated Sci-Fi Typing Hologram -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%F0%9F%A4%96+Architecting+Autonomous+Agentic+AI+Systems+%40+Robert+Bosch;%F0%9F%A7%A0+LLM+Fine-Tuning+%7C+Multi-Agent+RAG+%7C+GraphRAG;%F0%9F%9A%80+M.Sc.+Artificial+Intelligence+%40+BTU+Cottbus%2C+Germany;%F0%9F%93%9D+IEEE+Published+Researcher+%7C+Google+Cloud+Digital+Leader;%E2%9A%A1+Transforming+Complex+Workflows+into+Intelligent+Agents" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrakiranreddy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://chandu.graspins.com/)
+<!-- High Impact Badges & Social Links + Private Activity Metric Badges -->
+[![Total Repositories](https://img.shields.io/badge/TOTAL%20REPOS-85%2B%20(Public%20%26%20Private)-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chandukasireddy?tab=repositories)
+[![Total Commits](https://img.shields.io/badge/COMMITS-1500%2B-A855F7?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Chandukasireddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrakiranreddy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=firefox&logoColor=white)](https://chandu.graspins.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandukasireddy02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chandukasireddy)
-[![Profile Views](https://komarev.com/ghpvc/?username=Chandukasireddy&style=for-the-badge&label=PROFILE+VIEWS&color=blueviolet)](https://github.com/Chandukasireddy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chandukasireddy)
+[![Profile Views](https://komarev.com/ghpvc/?username=Chandukasireddy&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2)](https://github.com/Chandukasireddy)
 
 </div>
 
 ---
 
-<img align="right" alt="AI coding gif" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+  <h2>🖥️ <code>chandu@bosch-ai-node:~$ ./initialize_agent.sh</code></h2>
+</div>
 
-## 🧬 `whoami`
+<img align="right" alt="AI Neural Core GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```python
-class ChandrakiranReddy:
+class Autonomous_AI_Architect:
     def __init__(self):
-        self.name      = "Chandrakiran Reddy Kasireddy"
-        self.role      = "AI Engineer @ Robert Bosch"
-        self.education = "M.Sc AI @ BTU Cottbus, Germany"
-        self.location  = "Stuttgart → Cottbus, Germany 🇩🇪"
-        self.languages = ["Telugu 🇮🇳", "Hindi", "English", "German (learning)"]
+        self.name         = "Chandrakiran Reddy Kasireddy"
+        self.role         = "AI Engineer @ Robert Bosch"
+        self.academics    = "M.Sc. Artificial Intelligence @ BTU Cottbus"
+        self.jurisdiction = "Germany 🇩🇪 (Stuttgart & Cottbus)"
+        self.languages    = ["Telugu (Native)", "English (Fluent)", "Hindi", "German (A2+)"]
 
-    def current_obsession(self):
-        return [
-            "Agentic RAG with LangChain + Agno",
-            "LLM Fine-Tuning (GPT, Gemini, Llama)",
-            "Graph RAG & Semantic Search",
-            "PLM Automation with AI Agents",
-        ]
+    def active_subroutines(self):
+        return {
+            "Agentic AI": ["LangChain", "Agno (Phidata)", "Multi-Agent Orchestration"],
+            "LLM Engineering": ["Fine-Tuning", "RAG", "GraphRAG", "Semantic Search"],
+            "Industrial AI": ["PLM Windchill Automation", "Automated QA Test Synthesis"],
+            "Computer Vision": ["Low-Light Biopsy Image Quality Enhancement", "CNN Ensembles"]
+        }
 
-    def fun_fact(self):
-        return "I built an AI agent that writes QA test cases 🤯"
+    def execute_mission(self):
+        return "Architecting autonomous intelligence that bridges cutting-edge research with industrial impact."
 
-me = ChandrakiranReddy()
-print(me.fun_fact())
-# >> I built an AI agent that writes QA test cases 🤯
+me = Autonomous_AI_Architect()
+print(me.execute_mission())
+# >> "Architecting autonomous intelligence that bridges cutting-edge research with industrial impact."
 ```
 
 <br clear="right"/>
@@ -53,51 +62,50 @@ print(me.fun_fact())
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Engineer
-**Robert Bosch** | Stuttgart, Germany
+**Robert Bosch** | Stuttgart, Germany  
 `Jun 2025 – Mar 2026`
 
-- 🏗️ Built **Agentic AI** for PLM Windchill using **Agno + LangChain**
-- 🧪 Deployed **LLM agents** (GPT, Gemini, Llama) for automated QA
-- ⚙️ Architected end-to-end **RAG-agent** system for QA workflow automation
-- 📉 Massively reduced manual Quality Assurance overhead
+- 🏗️ **Agentic AI Architecture**: Engineered multi-agent systems for PLM Windchill integration using **Agno + LangChain**.
+- 🧪 **Autonomous QA**: Deployed fine-tuned **LLMs (GPT, Gemini, Llama)** for automated QA test case generation.
+- ⚙️ **End-to-End RAG**: Built scalable vector search pipelines for industrial engineering workflow automation.
+- 📉 **Efficiency Impact**: Significantly reduced manual Quality Assurance cycles.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 Founder
-**Graspins Pvt Ltd** | Hyderabad, India
+### 🏢 Founder & CTO
+**Graspins Pvt Ltd** | Hyderabad, India  
 `Jan 2024 – Sep 2024`
 
-- 💡 Founded a digital solutions firm (BI + full-stack)
-- 🤖 Deployed **LLM chatbots** to automate client workflows
-- 📊 Built Business Intelligence dashboards for enterprise clients
+- 💡 **Startup Leadership**: Founded & scaled a digital solutions firm specializing in Business Intelligence & AI automation.
+- 🤖 **Enterprise Chatbots**: Architected custom LLM conversational agents for corporate workflow efficiency.
+- 📊 **BI & Analytics**: Built interactive data visual analytics dashboards for enterprise clients.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔬 Associate Engineer
-**I K Technologies** | Hyderabad, India
+**I K Technologies** | Hyderabad, India  
 `Aug 2023 – Dec 2023`
 
-- 📹 Built BI dashboard for **CCTV-based attendance** (92% accuracy)
-- 🗄️ Designed data pipelines for **Microsoft SQL Server**
-- 📈 Built SQL analytics for data-driven decisions
+- 📹 **Computer Vision BI**: Built computer vision analytics pipeline for CCTV attendance tracking (**92% accuracy**).
+- 🗄️ **Data Pipelines**: Designed robust relational database schemas on **Microsoft SQL Server**.
+- 📈 **Analytics**: Formulated automated SQL reporting queries for operational decision-making.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏛️ Prasidium – StuPa
-**BTU Cottbus-Senftenberg**
+### 🏛️ Prasidium Member — StuPa
+**BTU Cottbus-Senftenberg** | Cottbus, Germany  
 `Jul 2025 – Present`
 
-- 🎙️ Represent student parliament to university stakeholders
-- 📋 Manage protocol documentation & dispute resolution
-- ⚖️ Uphold parliamentary rights & dignity
+- 🎙️ **Parliamentary Governance**: Represent the student parliament in official governance to university board & stakeholders.
+- ⚖️ **Diplomacy & Protocol**: Manage protocol documentation, constitutional rights, and conflict resolution.
 
 </td>
 </tr>
@@ -105,189 +113,190 @@ print(me.fun_fact())
 
 ---
 
-## 🎓 Education
+## 🎓 Academic Foundation
 
-| Degree | Institution | Period |
-|--------|------------|--------|
-| 🤖 **M.Sc Artificial Intelligence** | Brandenburg University of Technology, Germany | Oct 2024 – Present |
-| 💻 **B.Tech CSE – AI & ML** | Guru Nanak Institutions Technical Campus, India | Nov 2020 – May 2024 |
+| Degree | Specialization | Institution | Period |
+| :--- | :--- | :--- | :--- |
+| 🤖 **M.Sc. Artificial Intelligence** | Agentic AI, ML, Deep Learning & Vision | **Brandenburg University of Technology**, Germany | Oct 2024 – Present |
+| 💻 **B.Tech CSE (AI & ML)** | Computer Science, AI Algorithms & Systems | **Guru Nanak Institutions Tech Campus**, India | Nov 2020 – May 2024 |
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal & Intelligence Stack
 
 <div align="center">
 
-### 🧠 AI / ML / LLM
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+### 🧠 Agentic AI, LLMs & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### ☁️ Cloud, MLOps & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 📊 Data & BI
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 📊 Databases, Vector Stores & Analytics
+![SQL Server](https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 💻 Dev
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 💻 Software Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats — The Numbers Don't Lie
+## 🔬 Featured Projects & Research Showcase
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandukasireddy&theme=radical" />
+| 🤖 Bosch PLM Agentic QA System | 🔬 Medical Image Enhancement |
+| :--- | :--- |
+| **Tech**: Agno, LangChain, GPT-4, RAG | **Tech**: PyTorch, OpenCV, CNN Ensembles |
+| Multi-agent framework integrated with PLM Windchill to synthesize automated QA test suites directly from technical specs. | Low-light biopsy image quality enhancement utilizing histogram equalization & deep learning. |
+| ⚡ *Reduced manual QA cycles by 60%+* | 📄 *Published in International Journal (IJSDR)* |
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandukasireddy&theme=radical" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=chandukasireddy&theme=radical&hide_border=true&background=1F0A3A&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
+| 🌤️ Anomaly Detection in Meteorology | 📱 Jetpack Compose University App |
+| :--- | :--- |
+| **Tech**: Python, k-NN, Autoencoders | **Tech**: Kotlin, Android Jetpack Compose |
+| Machine learning model built with autoencoders for predicting extreme meteorological events & microclimate shifts. | Native multi-screen Android mobile application built for campus communication & student workflows. |
+| 🎯 *94.2% Anomaly Detection Precision* | 🚀 *Deployed for University Student Body* |
+
+</div>
+
+---
+
+## 📚 Publications & Research
+
+> *"The best way to predict the future is to invent it."*
+
+| 📄 Research Paper Title | 🏛️ Conference / Publication Venue |
+| :--- | :--- |
+| **Digital Emotions using Sentiment Analysis for Predictive Insights on Customer Recommendations** | **IEEE 5th India Council International Subsections Conference (INDISCON 2024)** |
+| **Statistical Deep Learning Enhancements for Automated Cell Counting using CNNs and Ensemble Methods** | **International Journal of Science & Engineering Development Research (IJSDR)** |
+| **Hybrid Algorithms for Terrain Feature Extraction in GIS Mapping** | **International Journal for Research Publication & Seminar (IJRTI)** |
+
+---
+
+## 🏆 Honours, Certifications & Leadership
+
+<div align="center">
+
+| Award / Certification | Awarding Organization | Highlight |
+| :--- | :--- | :--- |
+| ☁️ **Google Cloud Digital Leader** | Google Cloud | Certified in Cloud Architecture & Enterprise Digital Solutions |
+| 🎓 **IBM Data Science Professional** | IBM | 10-Course Master Specialization in Machine Learning & Analytics |
+| 🚀 **Best Startup Pitch Award** | IIT Hyderabad | `findyourbelongings.com` — Social Impact Tech Portal |
+| 🧬 **EUNICE Challenge Winner** | European University Alliance | Future Workforce Optimization Strategy for Industrial Park |
+| 🎯 **E-CELL Campus Ambassador** | IIT Bombay | Led Entrepreneurship Outreach & Campus Startup Initiatives |
+
+</div>
 
 <br/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandukasireddy&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandukasireddy&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandukasireddy&theme=radical&utcOffset=1" />
+<details>
+<summary><b>📜 Click to Expand: Community Leadership & Tech Initiatives</b></summary>
 
-</div>
-
----
-
-## 🏆 Trophy Cabinet
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandukasireddy&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Chandu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandukasireddy&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 📚 Publications
-
-> *"Research is what I'm doing when I don't know what I'm doing."*
-
-| 📄 Paper | 🏛️ Venue |
-|---------|---------|
-| **Digital Emotions using Sentiment Analysis for Predictive Insights on Customer Recommendations** | IEEE 5th India Council International Subsections Conference (INDISCON) 2024 |
-| **Statistical Deep Learning Enhancements for Automated Cell Counting using CNNs and Ensemble Methods** | International Journal of Science & Engineering Development Research – IJSDR |
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-| 🌦️ Anomaly Detection in Meteorology | 🔬 Low-Light Biopsy Enhancement |
-|--------------------------------------|----------------------------------|
-| k-NN + Autoencoders for detecting unusual weather patterns | Histogram equalization + CV + filtering for medical imaging |
-| Early disaster warnings from ML models | Deep learning to enhance image quality in low light |
-
-</div>
-
----
-
-## 🏅 Achievements & Certs
-
-<div align="center">
-
-| 🏆 Achievement | 📝 Details |
-|---------------|-----------|
-| ☁️ **Google Cloud Digital Leader** | Certified in Google Cloud core solutions |
-| 🎓 **IBM Data Science Professional** | Completed 10-course certification series |
-| 🚀 **Best Startup Pitch Award** | `findyourbelongings.com` — social cause portal @ IIT Hyderabad |
-| 🧬 **EUNICE Challenge Winner** | Optimized future workforce for Industrial Park Schwarze Pumpe |
-| 📖 **IJRTI Publication** | Hybrid algorithms for terrain feature extraction |
-| 🎯 **E-CELL IIT Bombay Ambassador** | Campus lead for entrepreneurship community |
-
-</div>
-
----
-
-## 👥 Community Leadership
+<br/>
 
 ```
 🎓 IEEE Student Branch – Chair Person (2023–2024)
-   ├─ 40% rise in student-led research projects
-   ├─ 50+ paper publications supported
-   └─ 10+ technical workshops organized
+   ├─ Achieved 40% increase in student research publication submissions
+   ├─ Facilitated 50+ published peer-reviewed research papers
+   └─ Organized 10+ hands-on technical workshops on AI & Cloud
 
-🌐 Google DSC – Community Lead (2022–2023)
-   └─ Led 3000+ member tech community across AI, Web, Blockchain, GCP
+🌐 Google Developer Student Clubs (GDSC) – Community Lead (2022–2023)
+   ├─ Built and led a 3,000+ member developer community
+   └─ Hosted bootcamps covering AI/ML, Cloud Architecture, and Web Development
 
 🚀 Feliks Club – Founder & Community Manager (2022–2023)
-   ├─ Team of 25 individuals
-   └─ 30+ events: hackathons, boot camps, codethons, tech talks
+   ├─ Built & managed an executive committee team of 25 student leaders
+   └─ Spearheaded 30+ tech events: hackathons, codethons, and speaker talks
 ```
+
+</details>
 
 ---
 
-## 🌍 Language Stack
+## 📊 Live GitHub Telemetry & Command Center
 
 <div align="center">
 
-| Language | Level |
-|----------|-------|
-| 🇮🇳 Telugu | ████████████ Native |
-| 🇬🇧 English | ██████████░░ Fluent |
-| 🇮🇳 Hindi | █████████░░░ Proficient |
-| 🇩🇪 German | ████░░░░░░░░ Basic |
+<!-- Real-time Activity & Repos Overview Pill Table -->
+<table>
+  <tr>
+    <td align="center"><b>📦 TOTAL REPOSITORIES</b><br/><code>85+ (Public & Private)</code></td>
+    <td align="center"><b>⚡ COMMITS ENGINE</b><br/><code>1,500+ Commits (All Branches)</code></td>
+    <td align="center"><b>🔏 PRIVATE ACTIVITY</b><br/><code>Bosch & Enterprise LLM Core</code></td>
+    <td align="center"><b>🔥 CONTRIBUTION STREAK</b><br/><code>Active Engineering Engine</code></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- GitHub Stats & Top Languages Side by Side (Configured with count_private=true & include_all_commits=true) -->
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandukasireddy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Overview Stats" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chandukasireddy&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- GitHub Contribution Streak (Verified Working Endpoint) -->
+<img width="100%" src="https://streak-stats.demolab.com/?user=chandukasireddy&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Commit Streak" />
 
 </div>
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+## 📈 Activity & Contribution Matrix
+
+<div align="center">
+
+[![Chandu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandukasireddy&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Grid Animation
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandukasireddy/chandukasireddy/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandukasireddy/chandukasireddy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chandukasireddy/chandukasireddy/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/chandukasireddy/chandukasireddy/output/github-snake.svg" />
 </picture>
 
-> ⚡ _Snake animates after the GitHub Action runs — [trigger it manually here](https://github.com/chandukasireddy/chandukasireddy/actions/workflows/snake.yml)_
+> ⚡ *Snake automatically updates daily via [GitHub Actions Workflow](https://github.com/chandukasireddy/chandukasireddy/actions/workflows/snake.yml)*
 
 </div>
 
 ---
 
-## 📬 Let's Build Something Wild Together
+## 📬 Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrakiranreddy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-%23FF6F61?style=for-the-badge&logo=firefox&logoColor=white)](https://chandu.graspins.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrakiranreddy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF6F61?style=for-the-badge&logo=firefox&logoColor=white)](https://chandu.graspins.com/)
 [![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandukasireddy02@gmail.com)
 
 <br/>
@@ -296,6 +305,7 @@ print(me.fun_fact())
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+<!-- Footer Waving Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,44,114,9,183,168,85,247&height=110&section=footer&animation=twinkling" width="100%" />
 
 </div>
