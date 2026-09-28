@@ -263,15 +263,6 @@ print(me.execute_mission())
 
 </div>
 
----
-
-## 📈 Activity & Contribution Matrix
-
-<div align="center">
-
-[![Chandu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandukasireddy&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
@@ -290,22 +281,4 @@ print(me.execute_mission())
 </div>
 
 ---
-
-## 📬 Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrakiranreddy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF6F61?style=for-the-badge&logo=firefox&logoColor=white)](https://chandu.graspins.com/)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandukasireddy02@gmail.com)
-
-<br/>
-
-[![@chandukasireddy's Holopin board](https://holopin.me/chandukasireddy)](https://holopin.io/@chandukasireddy)
-
-<br/>
-
-<!-- Footer Waving Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,44,114,9,183,168,85,247&height=110&section=footer&animation=twinkling" width="100%" />
-
 </div>
