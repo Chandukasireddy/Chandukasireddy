@@ -58,70 +58,6 @@ print(me.execute_mission())
 
 ---
 
-## 🚀 Experience — The Journey
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Engineer
-**Robert Bosch** | Stuttgart, Germany  
-`Jun 2025 – Mar 2026`
-
-- 🏗️ **Agentic AI Architecture**: Engineered multi-agent systems for PLM Windchill integration using **Agno + LangChain**.
-- 🧪 **Autonomous QA**: Deployed fine-tuned **LLMs (GPT, Gemini, Llama)** for automated QA test case generation.
-- ⚙️ **End-to-End RAG**: Built scalable vector search pipelines for industrial engineering workflow automation.
-- 📉 **Efficiency Impact**: Significantly reduced manual Quality Assurance cycles.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 Founder & CTO
-**Graspins Pvt Ltd** | Hyderabad, India  
-`Jan 2024 – Sep 2024`
-
-- 💡 **Startup Leadership**: Founded & scaled a digital solutions firm specializing in Business Intelligence & AI automation.
-- 🤖 **Enterprise Chatbots**: Architected custom LLM conversational agents for corporate workflow efficiency.
-- 📊 **BI & Analytics**: Built interactive data visual analytics dashboards for enterprise clients.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 Associate Engineer
-**I K Technologies** | Hyderabad, India  
-`Aug 2023 – Dec 2023`
-
-- 📹 **Computer Vision BI**: Built computer vision analytics pipeline for CCTV attendance tracking (**92% accuracy**).
-- 🗄️ **Data Pipelines**: Designed robust relational database schemas on **Microsoft SQL Server**.
-- 📈 **Analytics**: Formulated automated SQL reporting queries for operational decision-making.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ Prasidium Member — StuPa
-**BTU Cottbus-Senftenberg** | Cottbus, Germany  
-`Jul 2025 – Present`
-
-- 🎙️ **Parliamentary Governance**: Represent the student parliament in official governance to university board & stakeholders.
-- ⚖️ **Diplomacy & Protocol**: Manage protocol documentation, constitutional rights, and conflict resolution.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Academic Foundation
-
-| Degree | Specialization | Institution | Period |
-| :--- | :--- | :--- | :--- |
-| 🤖 **M.Sc. Artificial Intelligence** | Agentic AI, ML, Deep Learning & Vision | **Brandenburg University of Technology**, Germany | Oct 2024 – Present |
-| 💻 **B.Tech CSE (AI & ML)** | Computer Science, AI Algorithms & Systems | **Guru Nanak Institutions Tech Campus**, India | Nov 2020 – May 2024 |
-
----
-
 ## 🛠️ Tech Arsenal & Intelligence Stack
 
 <div align="center">
@@ -159,40 +95,6 @@ print(me.execute_mission())
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
-
----
-
-## 🔬 Featured Projects & Research Showcase
-
-<div align="center">
-
-| 🤖 Bosch PLM Agentic QA System | 🔬 Medical Image Enhancement |
-| :--- | :--- |
-| **Tech**: Agno, LangChain, GPT-4, RAG | **Tech**: PyTorch, OpenCV, CNN Ensembles |
-| Multi-agent framework integrated with PLM Windchill to synthesize automated QA test suites directly from technical specs. | Low-light biopsy image quality enhancement utilizing histogram equalization & deep learning. |
-| ⚡ *Reduced manual QA cycles by 60%+* | 📄 *Published in International Journal (IJSDR)* |
-
-<br/>
-
-| 🌤️ Anomaly Detection in Meteorology | 📱 Jetpack Compose University App |
-| :--- | :--- |
-| **Tech**: Python, k-NN, Autoencoders | **Tech**: Kotlin, Android Jetpack Compose |
-| Machine learning model built with autoencoders for predicting extreme meteorological events & microclimate shifts. | Native multi-screen Android mobile application built for campus communication & student workflows. |
-| 🎯 *94.2% Anomaly Detection Precision* | 🚀 *Deployed for University Student Body* |
-
-</div>
-
----
-
-## 📚 Publications & Research
-
-> *"The best way to predict the future is to invent it."*
-
-| 📄 Research Paper Title | 🏛️ Conference / Publication Venue |
-| :--- | :--- |
-| **Digital Emotions using Sentiment Analysis for Predictive Insights on Customer Recommendations** | **IEEE 5th India Council International Subsections Conference (INDISCON 2024)** |
-| **Statistical Deep Learning Enhancements for Automated Cell Counting using CNNs and Ensemble Methods** | **International Journal of Science & Engineering Development Research (IJSDR)** |
-| **Hybrid Algorithms for Terrain Feature Extraction in GIS Mapping** | **International Journal for Research Publication & Seminar (IJRTI)** |
 
 ---
 
