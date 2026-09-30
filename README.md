@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Dynamic Cyberpunk Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,44,114,9,183,168,85,247&height=230&section=header&text=Chandrakiran%20Reddy%20Kasireddy&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20Agentic%20RAG%20Wizard&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,44,114,9,183,168,85,247&height=230&section=header&text=Chandrakiran%20Reddy%20Kasireddy&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%40%20Siemens%20Healthineers%20%7C%20Ex-Robert%20Bosch%20%7C%20Applied%20AI&descAlignY=58&descSize=18" width="100%" />
 
 <!-- Animated Sci-Fi Typing Hologram -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%F0%9F%A4%96+Architecting+Autonomous+Agentic+AI+Systems+%40+Robert+Bosch;%F0%9F%A7%A0+LLM+Fine-Tuning+%7C+Multi-Agent+RAG+%7C+GraphRAG;%F0%9F%9A%80+M.Sc.+Artificial+Intelligence+%40+BTU+Cottbus%2C+Germany;%F0%9F%93%9D+IEEE+Published+Researcher+%7C+Google+Cloud+Digital+Leader;%E2%9A%A1+Transforming+Complex+Workflows+into+Intelligent+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%F0%9F%A4%96+AI+Engineer+%40+Siemens+Healthineers;%F0%9F%A7%A0+Ex-Robert+Bosch+%7C+Agentic+AI+%7C+Multi-Agent+RAG;%F0%9F%9A%80+M.Sc.+Artificial+Intelligence+%40+BTU+Cottbus%2C+Germany;%F0%9F%93%9D+IEEE+Published+Researcher+%7C+Google+Cloud+Digital+Leader;%E2%9A%A1+Medical+Imaging+Intelligence+%26+Applied+Agents" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <h2>🖥️ <code>chandu@bosch-ai-node:~$ ./initialize_agent.sh</code></h2>
+  <h2>🖥️ <code>chandu@siemens-healthineers:~$ ./initialize_agent.sh</code></h2>
 </div>
 
 <img align="right" alt="AI Neural Core GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -33,25 +33,26 @@
 class Autonomous_AI_Architect:
     def __init__(self):
         self.name         = "Chandrakiran Reddy Kasireddy"
-        self.role         = "AI Engineer @ Robert Bosch"
+        self.role         = "AI Engineer @ Siemens Healthineers"
+        self.former       = "AI Engineer @ Robert Bosch"
         self.academics    = "M.Sc. Artificial Intelligence @ BTU Cottbus"
-        self.jurisdiction = "Germany 🇩🇪 (Stuttgart & Cottbus)"
+        self.jurisdiction = "Germany 🇩🇪"
         self.languages    = ["Telugu (Native)", "English (Fluent)", "Hindi", "German (A2+)"]
 
     def active_subroutines(self):
         return {
-            "Agentic AI": ["LangChain", "Agno (Phidata)", "Multi-Agent Orchestration"],
-            "LLM Engineering": ["Fine-Tuning", "RAG", "GraphRAG", "Semantic Search"],
-            "Industrial AI": ["PLM Windchill Automation", "Automated QA Test Synthesis"],
-            "Computer Vision": ["Low-Light Biopsy Image Quality Enhancement", "CNN Ensembles"]
+            "Medical AI & Telemetry": ["Stream Benchmarking", "IQA (SSIM, PSNR)", "SIFT/ORB Registration"],
+            "Agentic AI & RAG": ["LangChain", "Agno (Phidata)", "Multi-Agent Orchestration"],
+            "Former Enterprise AI": ["Robert Bosch PLM Windchill Automation", "QA Test Synthesis"],
+            "Research & Vision": ["Low-Light Biopsy Image Enhancement", "CNN Ensembles"]
         }
 
     def execute_mission(self):
-        return "Architecting autonomous intelligence that bridges cutting-edge research with industrial impact."
+        return "Architecting autonomous intelligence that bridges medical AI and enterprise impact."
 
 me = Autonomous_AI_Architect()
 print(me.execute_mission())
-# >> "Architecting autonomous intelligence that bridges cutting-edge research with industrial impact."
+# >> "Architecting autonomous intelligence that bridges medical AI and enterprise impact."
 ```
 
 <br clear="right"/>
