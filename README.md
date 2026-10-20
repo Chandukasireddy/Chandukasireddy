@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header Dynamic Cyberpunk Waving Banner -->
+<!-- Header Dynamic Cyberpunk  Waving Banner   -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,18,44,114,9,183,168,85,247&height=230&section=header&text=Chandrakiran%20Reddy%20Kasireddy&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%40%20Siemens%20Healthineers%20%7C%20Ex-Robert%20Bosch%20%7C%20Applied%20AI&descAlignY=58&descSize=18" width="100%" />
 
 <!-- Animated Sci-Fi Typing Hologram -->
